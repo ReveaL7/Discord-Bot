@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Auto react bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reveal#0003",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "db": "^3.3.1",
+    "discord.js": "^12.5.3",
+    "index.js": "^0.0.3",
+    "m": "^1.7.0",
+    "ms": "^2.1.3"
+  }
+}
